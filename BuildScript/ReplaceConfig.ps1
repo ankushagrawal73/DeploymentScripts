@@ -1,8 +1,7 @@
 Param( 
 [string]$DropLocation,
 [string]$FileName,
-[string]$Env,
-[string]$SQLCmdVariable4=""
+[string]$Env""
 
 )
 

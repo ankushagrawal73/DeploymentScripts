@@ -1,7 +1,7 @@
 Param( 
 [string]$DropLocation,
 [string]$FileName,
-[string]$Env""
+[string]$Env=""
 
 )
 
